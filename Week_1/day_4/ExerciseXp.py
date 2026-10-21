@@ -104,4 +104,9 @@ def main():
     elif temp < 33:
         print("A bit warm, stay hydrated")
     else:
-        print()
+        print("It’s really hot! Stay cool.")
+
+
+    # def get_random_temp():
+    #     temp = random.uniform(-10,40)
+    #     return temp
