@@ -1,78 +1,58 @@
-#   Exercise 1 Lists
-l=[1,2,3,4]
-for val in l:
-    print(val)
+# Task 1: Display each value in the list.
+numbers = [1, 2, 3, 4]
+print([value for value in numbers])
 
-for val in l:
-    print(val*20)
+# Task 2: Display each value multiplied by 20.
+print([value * 20 for value in numbers])
 
-
+# Task 3: Get the first letter of each name.
 names = ["Elie", "Tim", "Matt"]
-f_letter = []
-for val in names:
-    f_letter.append(val[0])
+first_letters = [name[0] for name in names]
+print(first_letters)
 
-print(f_letter)
-numbers = [1,2,3,4,5,6]
-new_num = []
-for val in numbers:
-    if val%2==0:
-        new_num.append(val)
+# Task 4: Select the even numbers.
+numbers = [1, 2, 3, 4, 5, 6]
+even_numbers = [number for number in numbers if number % 2 == 0]
+print(even_numbers)
 
-list1 = [1,2,3,4]
-list2 = [3,4,5,6]
-list3 = []
-for val in list1:
-    for val2 in list2:
-        if val == val2:
-            list3.append(val)
+# Task 5: Find unique values shared by both lists, preserving list1 order.
+list1 = [1, 2, 3, 4]
+list2 = [3, 4, 5, 6]
+common_numbers = [
+    number
+    for index, number in enumerate(list1)
+    if number in list2 and number not in list1[:index]
+]
+print(common_numbers)
 
-low_invers= []
-for val in names:
-    val = val.lower()
-    val = val[::-1]
-    low_invers.append(val)
+# Task 6: Lowercase each name and reverse its letters.
+lowercase_reversed = [name.lower()[::-1] for name in names]
+print(lowercase_reversed)
 
-print(low_invers)
-
+# Task 7: Find unique letters shared by both strings, preserving first's order.
 first = "first"
 third = "third"
-pos = []
-for val in first:
-    for val2 in third:
-        if val == val2:
-            pos.append(val)
-print(pos)
-div12 = []
-for i in range(1,101):
-    if i%12 ==0:
-        div12.append(i)
+common_letters = [
+    letter
+    for index, letter in enumerate(first)
+    if letter in third and letter not in first[:index]
+]
+print(common_letters)
 
-print(div12)
-stg = "amazing"
+# Task 8: Find numbers from 1 through 100 that are divisible by 12.
+divisible_by_12 = [number for number in range(1, 101) if number % 12 == 0]
+print(divisible_by_12)
+
+# Task 9: Keep the non-vowel characters from the word.
+word = "amazing"
 vowels = "aeiou"
-consonants = []
-for letter in stg:
-    if letter not in vowels:
-        consonants.append(letter)
+consonants = [letter for letter in word if letter not in vowels]
 print(consonants)
 
+# Task 10: Create a 3-by-3 nested list containing 0, 1, and 2 in each row.
+three_by_three = [[column for column in range(3)] for row in range(3)]
+print(three_by_three)
 
-full_list = []
-for i in range(3):
-    list1 = []
-    for j in range(3):
-        list1.append(j)
-    full_list.append(list1)
-
-print(full_list)
-
-
-full_list = []
-for i in range(10):
-    list1 = []
-    for j in range(10):
-        list1.append(j)
-    full_list.append(list1)
-
-print(full_list)
+# Task 11: Create a 10-by-10 nested list containing 0 through 9 in each row.
+ten_by_ten = [[column for column in range(10)] for row in range(10)]
+print(ten_by_ten)
