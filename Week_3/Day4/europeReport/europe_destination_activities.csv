@@ -1,0 +1,30 @@
+﻿city,country,sightseeing,beaches,nightlife,nature,hiking,skiing,culture,resorts_spa,shopping,main_attractions,recommended_experiences
+London,United Kingdom,1,0,1,0,0,0,1,0,1,British Museum; Tower of London; Buckingham Palace; Westminster Abbey; Tower Bridge,West End theatre; Thames walks; Camden Market; museums
+Paris,France,1,0,1,0,0,0,1,0,1,Eiffel Tower; Louvre Museum; Musée d’Orsay; Arc de Triomphe; Notre-Dame Cathedral,Seine river cruise; Montmartre walks; art galleries; café culture
+Istanbul,Turkey,1,0,1,0,0,0,1,1,1,Hagia Sophia; Blue Mosque; Topkapı Palace; Grand Bazaar; Basilica Cistern,Bosphorus cruise; traditional hammam; bazaars; Turkish food tours
+Rome,Italy,1,0,1,0,0,0,1,0,1,Colosseum; Roman Forum; Pantheon; Trevi Fountain; Vatican Museums,Ancient Roman sites; Trastevere food walks; museums; piazzas
+Barcelona,Spain,1,1,1,0,0,0,1,0,1,Sagrada Família; Park Güell; Casa Batlló; Gothic Quarter; Barceloneta Beach,Gaudí architecture; beach time; tapas tours; markets
+Vienna,Austria,1,0,1,0,0,0,1,1,1,Schönbrunn Palace; St. Stephen’s Cathedral; Belvedere Palace; Hofburg; Vienna State Opera,Classical concerts; coffeehouses; museums; thermal spa visits
+Prague,Czechia,1,0,1,0,0,0,1,1,1,Charles Bridge; Prague Castle; Old Town Square; Astronomical Clock; St. Vitus Cathedral,Old Town walks; river cruise; historic pubs; wellness spas
+Berlin,Germany,1,0,1,0,0,0,1,0,1,Brandenburg Gate; Museum Island; Berlin Wall Memorial; Reichstag Building; East Side Gallery,History museums; contemporary art; nightlife; flea markets
+Amsterdam,The Netherlands,1,0,1,0,0,0,1,0,1,Rijksmuseum; Van Gogh Museum; Anne Frank House; Canal Ring; Royal Palace,Canal cruise; cycling; art museums; neighborhood markets
+Lisbon,Portugal,1,1,1,0,0,0,1,0,1,Belém Tower; Jerónimos Monastery; São Jorge Castle; Praça do Comércio; Alfama,Fado music; viewpoints; nearby coastal trips; food markets
+Athens,Greece,1,1,1,0,0,0,1,0,1,Acropolis; Parthenon; Acropolis Museum; Ancient Agora; Plaka,Archaeological sites; Greek food; nearby beaches; Lycabettus Hill walks
+Stockholm,Sweden,1,0,1,1,1,0,1,0,1,Vasa Museum; Gamla Stan; Skansen; Royal Palace; ABBA The Museum,Archipelago boat trips; waterfront walks; Nordic spas; design shops
+Florence,Italy,1,0,1,0,0,0,1,0,1,Florence Cathedral; Uffizi Gallery; Ponte Vecchio; Accademia Gallery; Palazzo Pitti,Renaissance art; Tuscan food; Piazzale Michelangelo; artisan shopping
+Copenhagen,Denmark,1,0,1,0,0,0,1,0,1,Tivoli Gardens; Nyhavn; Rosenborg Castle; Amalienborg Palace; The Little Mermaid,Harbor cycling; Nordic food; design shopping; sauna experiences
+Dublin,Ireland,1,0,1,0,0,0,1,0,1,Trinity College; Book of Kells; Dublin Castle; St. Patrick’s Cathedral; Guinness Storehouse,Live traditional music; literary walks; pub culture; nearby coastal hikes
+Edinburgh,United Kingdom,1,0,1,1,1,0,1,0,1,Edinburgh Castle; Royal Mile; Holyrood Palace; Arthur’s Seat; National Museum of Scotland,Arthur’s Seat hike; Old Town history; whisky tastings; festivals
+Oslo,Norway,1,0,1,1,1,1,1,1,1,Oslo Opera House; MUNCH Museum; Vigeland Park; Akershus Fortress; Fram Museum,Oslofjord excursions; forest hikes; saunas; winter sports nearby
+Helsinki,Finland,1,0,1,1,1,0,1,1,1,Helsinki Cathedral; Suomenlinna; Temppeliaukio Church; Market Square; Oodi Library,Finnish sauna; island trips; design district; waterfront walks
+Venice,Italy,1,0,0,0,0,0,1,0,1,St. Mark’s Basilica; Doge’s Palace; Rialto Bridge; Grand Canal; Peggy Guggenheim Collection,Canal boat rides; island visits; Venetian art; artisan workshops
+Moscow,Russia,1,0,1,0,0,0,1,0,1,Red Square; Saint Basil’s Cathedral; Kremlin; Tretyakov Gallery; Bolshoi Theatre,Historic architecture; art museums; cultural performances
+Saint Petersburg,Russia,1,0,1,0,0,0,1,0,1,Hermitage Museum; Peter and Paul Fortress; Church of the Savior on Spilled Blood; Peterhof Palace; Mariinsky Theatre,Imperial palaces; art museums; canals; classical performances
+Ankara,Turkey,1,0,0,0,0,0,1,0,1,Anıtkabir; Museum of Anatolian Civilizations; Ankara Castle; Kocatepe Mosque; Atakule,Anatolian history; museums; old quarter walks; local markets
+Madrid,Spain,1,0,1,0,0,0,1,0,1,Prado Museum; Royal Palace of Madrid; Retiro Park; Plaza Mayor; Reina Sofía Museum,Art museums; tapas tours; flamenco shows; shopping streets
+Bursa,Turkey,1,0,0,1,1,1,1,1,0,Grand Mosque; Green Mosque; Koza Han; Cumalıkızık; Uludağ,Thermal baths; Uludağ skiing and hiking; Ottoman heritage; silk markets
+İzmir,Turkey,1,1,1,0,0,0,1,1,1,Konak Clock Tower; Kemeraltı Bazaar; Kadifekale; Kordon waterfront; Agora of Smyrna,Seaside promenade; nearby beaches; bazaars; thermal springs nearby
+Kyiv,Ukraine,1,0,1,0,0,0,1,0,0,Saint Sophia Cathedral; Kyiv Pechersk Lavra; Golden Gate; Maidan Nezalezhnosti; Andriivskyi Descent,Historic architecture; art and cultural sites; neighborhood walks
+Dubrovnik,Croatia,1,1,1,1,1,0,1,0,0,Old Town Walls; Stradun; Fort Lovrijenac; Rector’s Palace; Lokrum Island,Old Town walks; Adriatic beaches; kayaking; Mount Srđ hikes
+Gaziantep,Turkey,1,0,0,0,0,0,1,0,1,Zeugma Mosaic Museum; Gaziantep Castle; Bakırcılar Bazaar; Emine Göğüş Culinary Museum; Rumkale,Regional cuisine; baklava tasting; mosaic history; copper bazaars
+Hamburg,Germany,1,0,1,0,0,0,1,0,1,Elbphilharmonie; Speicherstadt; Miniatur Wunderland; St. Michael’s Church; Port of Hamburg,Harbor boat tours; live music; markets; wellness spas
